@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable-xxhdpi_ic_my_icon.png.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable-xxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable-hdpi_ic_my_icon.png.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable-hdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/xml_backup_rules.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable_bg_edittext_round.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable/bg_edittext_round.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable_ic_my_icon.png.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable/ic_my_icon.png"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable-xhdpi_ic_my_icon.png.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable-xhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable_dot_green.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable/dot_green.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/layout_spinner_dropdown_item.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/layout/spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable_spinner_dropdown_item.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable/spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable-mdpi_ic_my_icon.png.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable-mdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/layout_spinner_item.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable_dot_red.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable/dot_red.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable-xxxhdpi_ic_my_icon.png.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable-xxxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-hdpi_ic_my_icon.png.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-hdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.yourname.shexec.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/drawable_spinner_item.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/drawable/spinner_item.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yourname.shexec.app-debug-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.yourname.shexec.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:background="#000000"
+     android:padding="12dp"
+     android:orientation="vertical">
+
+    <LinearLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_marginBottom="8dp"
+         android:gravity="center_vertical"
+         android:orientation="horizontal">
+
+        <Spinner
+             android:layout_height="48dp"
+             android:layout_width="0dp"
+             android:background="#1A1A1A"
+             android:focusableInTouchMode="true"
+             android:spinnerMode="dropdown"
+             android:paddingHorizontal="12dp"
+             android:layout_weight="1"
+             android:focusable="true"
+             android:id="@+id/spinner_sh">
+
+        </Spinner>
+
+        <Button
+             android:layout_height="48dp"
+             android:layout_width="wrap_content"
+             android:backgroundTint="#1976D2"
+             android:textColor="#FFFFFF"
+             android:layout_marginStart="8dp"
+             android:paddingHorizontal="16dp"
+             android:id="@+id/btnRun"
+             android:text="执行脚本" />
+
+        <Button
+             android:layout_height="48dp"
+             android:layout_width="wrap_content"
+             android:backgroundTint="#D32F2F"
+             android:textColor="#FFFFFF"
+             android:layout_marginStart="6dp"
+             android:paddingHorizontal="16dp"
+             android:id="@+id/btnStop"
+             android:text="重启 Shell" />
+
+    </LinearLayout>
+
+    <LinearLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_marginBottom="12dp"
+         android:orientation="horizontal">
+
+        <Button
+             android:layout_height="48dp"
+             android:layout_width="0dp"
+             android:layout_marginEnd="6dp"
+             android:backgroundTint="#388E3C"
+             android:textColor="#FFFFFF"
+             android:layout_weight="1"
+             android:id="@+id/btnRefresh"
+             android:text="刷新脚本列表" />
+
+        <Button
+             android:layout_height="48dp"
+             android:layout_width="0dp"
+             android:backgroundTint="#FFA000"
+             android:textColor="#FFFFFF"
+             android:layout_marginStart="6dp"
+             android:layout_weight="1"
+             android:id="@+id/btnClear"
+             android:text="清空终端" />
+
+    </LinearLayout>
+
+    <LinearLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_marginBottom="4dp"
+         android:gravity="center_vertical"
+         android:orientation="horizontal">
+
+        <TextView
+             android:layout_height="24dp"
+             android:layout_width="24dp"
+             android:gravity="center"
+             android:textSize="18sp"
+             android:textColor="#4CAF50"
+             android:text=">_"
+             android:textStyle="bold" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:textSize="16sp"
+             android:textColor="#FFFFFF"
+             android:layout_marginStart="8dp"
+             android:text="termux终端"
+             android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_marginBottom="8dp"
+         android:gravity="center_vertical"
+         android:orientation="horizontal">
+
+        <View
+             android:layout_height="10dp"
+             android:layout_width="10dp"
+             android:background="@drawable/dot_red"
+             android:id="@+id/statusDot" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:textSize="13sp"
+             android:textColor="#AAAAAA"
+             android:layout_marginStart="8dp"
+             android:id="@+id/tvShellStatus"
+             android:text="Root shell 未连接" />
+
+    </LinearLayout>
+
+    <com.termux.view.TerminalView
+         android:layout_height="0dp"
+         android:layout_width="match_parent"
+         android:scrollbars="vertical"
+         android:imeOptions="actionDone|flagNoExtractUi"
+         android:background="#0A0A0A"
+         android:layout_weight="1"
+         android:id="@+id/terminal_view" />
+
+</LinearLayout>
+

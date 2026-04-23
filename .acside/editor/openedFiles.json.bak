@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ShenFwj/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1914,
+          "line": 60
+        },
+        "start": {
+          "column": 0,
+          "index": 1914,
+          "line": 60
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ShenFwj/app/src/main/res/layout/activity_main.xml"
+}

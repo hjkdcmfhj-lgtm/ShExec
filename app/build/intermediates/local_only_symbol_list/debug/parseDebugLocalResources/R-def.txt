@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_edittext_round
+drawable dot_green
+drawable dot_red
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_my_icon
+drawable spinner_dropdown_item
+drawable spinner_item
+id btnClear
+id btnRefresh
+id btnRun
+id btnStop
+id spinner_sh
+id statusDot
+id terminal_view
+id tvShellStatus
+layout activity_main
+layout spinner_dropdown_item
+layout spinner_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap ic_my_icon
+string app_name
+style AppTheme
+style Base.AppTheme
+xml backup_rules
+xml data_extraction_rules

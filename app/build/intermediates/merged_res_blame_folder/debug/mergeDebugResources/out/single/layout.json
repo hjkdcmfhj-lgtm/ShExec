@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.yourname.shexec.app-mergeDebugResources-38:/layout/spinner_dropdown_item.xml",
+        "source": "com.yourname.shexec.app-main-41:/layout/spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-mergeDebugResources-38:/layout/spinner_item.xml",
+        "source": "com.yourname.shexec.app-main-41:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.yourname.shexec.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.yourname.shexec.app-main-41:/layout/activity_main.xml"
+    }
+]
