@@ -58,22 +58,32 @@
         <Button
              android:layout_height="48dp"
              android:layout_width="0dp"
-             android:layout_marginEnd="6dp"
+             android:layout_marginEnd="3dp"
              android:backgroundTint="#388E3C"
              android:textColor="#FFFFFF"
              android:layout_weight="1"
              android:id="@+id/btnRefresh"
-             android:text="刷新脚本列表" />
+             android:text="刷新列表" />
 
         <Button
              android:layout_height="48dp"
              android:layout_width="0dp"
+             android:layout_marginHorizontal="3dp"
              android:backgroundTint="#FFA000"
              android:textColor="#FFFFFF"
-             android:layout_marginStart="6dp"
              android:layout_weight="1"
              android:id="@+id/btnClear"
              android:text="清空终端" />
+
+        <Button
+             android:layout_height="48dp"
+             android:layout_width="0dp"
+             android:backgroundTint="#7B1FA2"
+             android:textColor="#FFFFFF"
+             android:layout_marginStart="3dp"
+             android:layout_weight="1"
+             android:id="@+id/btnSettings"
+             android:text="设置" />
 
     </LinearLayout>
 
@@ -138,4 +148,3 @@
          android:id="@+id/terminal_view" />
 
 </LinearLayout>
-
